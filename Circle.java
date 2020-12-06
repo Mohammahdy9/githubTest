@@ -12,7 +12,7 @@ public class Circle extends Geometric{
 	
 	public void calcPerimeter() {
 		
-		perimeter=(2*3.14*radius);
+		perimeter=(2*3.14*radius);// hello
 		
 	}
 	
